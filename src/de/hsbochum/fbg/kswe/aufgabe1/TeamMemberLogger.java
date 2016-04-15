@@ -22,7 +22,7 @@ public class TeamMemberLogger {
 	}
 
 	private void loadMemberC() {
-		this.members.add(new TeamMember("Barbara", "Klein"));
+		this.members.add(new TeamMember("Matthias", "Schulte"));
 	}
 
 	private void loadMemberB() {
@@ -30,6 +30,7 @@ public class TeamMemberLogger {
 	}
 
 	private void loadMemberA() {
+		this.members.add(new TeamMember("Thorsten", "Kelm"));
 		
 	}
 
